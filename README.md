@@ -37,6 +37,9 @@ Besides working for myself as a freelance web developer and content creator sinc
 * Storybook
 * WordPress
 
+### Other
+* Git
+
 ## What qualifications do I hold?
 
 * Bachelor of Communications (University of Technology Sydney, 2020)
