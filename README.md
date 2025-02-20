@@ -18,7 +18,7 @@ Besides working for myself as a freelance web developer and content creator sinc
 ## What achievements am I most proud of?
 
 * With Deloitte, I assisted in the redevelopment of the National Disability Insurance Agency client and service provider portals by building Salesforce Lightning Web Components with a major focus on accessibility and usability to support over 500,000 Australians with disability.
-* At Finder, streamlined the publishing team’s workflow by developing productivity tools which reduced time spent on compliance tasks by 90% and shrank the incidence of financial penalty for product noncompliance.
+* At Finder, I streamlined the publishing team’s workflow by developing productivity tools which reduced time spent on compliance tasks by 90% and shrank the incidence of financial penalty for product noncompliance.
 
 ## What technologies am I skilled in?
 
