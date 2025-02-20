@@ -38,6 +38,7 @@ Besides working for myself as a freelance web developer and content creator sinc
 * WordPress
 
 ### Other
+* Windows & Linux
 * Git
 
 ## What qualifications do I hold?
