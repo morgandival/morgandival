@@ -1,6 +1,6 @@
 ﻿# G'day! I'm Morgan.
 
-I'm a web developer and content writer based in Sydney, Australia.
+I'm a web developer and content writer based in Sydney, Australia, with over a decade of experience building websites in a variety of different contexts.
 
 ## What have I been working on lately?
 
@@ -9,10 +9,10 @@ I'm a web developer and content writer based in Sydney, Australia.
 
 ## Who have I worked for previously?
 
-Besides working for myself as a freelance web developer and content creator, I have also joined some amazing teams.
+Besides working for myself as a freelance web developer and content creator since 2013, I have also joined some amazing teams.
 
 * Deloitte Digital Australia (January 2022 to April 2024)
-* Funke Labs
+* Funke Labs (2013)
 * Finder (2012)
 
 ## What technologies am I proficient in?
