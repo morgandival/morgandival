@@ -9,6 +9,6 @@ I'm a web developer and content writer based in Sydney, Australia.
 
 ## How can you get in touch?
 
-* [Email](morgandival@gmail.com)
+* [Email](mailto:morgandival@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/morgandival)
 * [X](https://x.com/morgandival)
