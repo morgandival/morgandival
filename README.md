@@ -5,7 +5,7 @@ I'm a web developer and content writer based in Sydney, Australia, with over a d
 ## What have I been working on lately?
 
 * [Your Cans](https://yourcans.com.au) - A NextJS static site built for an exciting Sydney based bespoke beverage packaging startup.
-* [SGFRA](https://saintsref.org.au) - I volunteer content updates and website maintainence for the St. George Football Referees Association's website.
+* [SGFRA](https://saintsref.org.au) - I volunteer content updates and website maintenance for the St. George Football Referees Association's website.
 
 ## Who have I worked for previously?
 
